@@ -1,0 +1,2 @@
+include ':app', ':picture_library', ':ucrop'
+rootProject.name='PicPractice'
